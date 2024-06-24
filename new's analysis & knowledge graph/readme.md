@@ -1,6 +1,6 @@
 # code:
 	
- Q1:code in dsaa5002_project\Q1\Q1.ipynb
+	Q1:code in dsaa5002_project\Q1\Q1.ipynb
  
 	Q2:code in dsaa5002_project\Q2\Q2.ipynb
  
