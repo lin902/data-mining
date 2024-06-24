@@ -2,15 +2,11 @@
 The final project has 7 questions. Each question has 1 readme file. The question requirement are in the word.
 # Problem Tasks
 ## Q1: Supervised Outlier Detection (15 pts)
-Background: 
+*Background*: Detecting falls in pets using a wearable device that records signals corresponding to various variables.
 
-Detecting falls in pets using a wearable device that records signals corresponding to various variables.
+*Requirements*:Handle data imbalance and prioritize recall rate for class 1 (falls).
 
-Requirements:
-
-Handle data imbalance and prioritize recall rate for class 1 (falls).
-
-Solving Approach:
+*Solving Approach*:
 
 Data exploration to understand the variables and the distribution.
 Use of outlier detection algorithms, potentially Isolation Forest or One-Class SVM, considering the imbalance.
